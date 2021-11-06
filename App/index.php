@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "hello world"?>
+    <?php echo "welcome to fucking worl"?>
     <?php echo "liso"?>
 </body>
 </html>

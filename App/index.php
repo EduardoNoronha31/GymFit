@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "hello fodase"?>
+    <?php echo "hello world"?>
+    <?php echo "liso"?>
 </body>
 </html>
